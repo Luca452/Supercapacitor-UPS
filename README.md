@@ -6,4 +6,6 @@ I mostly wanted to experiment with supercapacitors charging circuits and DC-DC c
 
 <img src="https://github.com/Luca452/Supercapacitor-UPS/assets/36864265/12987af7-a5b3-45ff-b435-1c2aa014e8d4" width="350" />
 
+<img src="https://github.com/Luca452/Supercapacitor-UPS/assets/36864265/dae56c18-f710-4a2f-8c09-916be0d8ae51" width="350" />
+
 
