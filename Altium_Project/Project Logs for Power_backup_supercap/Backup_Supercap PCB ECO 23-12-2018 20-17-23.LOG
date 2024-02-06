@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C12 Old Footprint=CAPPR500-1300X2700 New Footprint=CAPPR750-1850X4650
+Change Component Footprint: Designator=C14 Old Footprint=CAPPR500-1300X2700 New Footprint=CAPPR750-1850X4650
+Change Component Comment : Designator=C12 Old Comment=1500uF New Comment=100F
+Change Component Comment : Designator=C14 Old Comment=1500uF New Comment=100F
+Change component parameters: Designator = "C12"; Footprint = "CAPPR750-1850X4650"; UniqueID = "\KTOPJTCY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "C14"; Footprint = "CAPPR750-1850X4650"; UniqueID = "\DLTNKHUX"
+Change component parameters. Clean all parameters for all variants

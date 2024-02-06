@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Backup_Supercap.PcbDoc   01/01/2019  22:57:47
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Backup_Supercap-RoundHoles.TXT
+ASCII SlotHoles File : Backup_Supercap-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             36        PTH        9.99inch (253.63mm)
+T2      24mil (0.6mm)                                             Slot              2         PTH        1.12inch (28.48mm)
+T3      35mil (0.9mm)                                             Round             4         PTH        0.28inch (7.00mm)
+T4      43mil (1.1mm)                                             Round             16        PTH        8.17inch (207.52mm)
+T5      55mil (1.4mm)                                             Round             3         PTH        0.33inch (8.28mm)
+T6      94mil (2.4mm)                                             Round             4         PTH        9.04inch (229.67mm)
+T7      126mil (3.2mm)                                            Round             1         NPTH       0.00inch (0.00mm)
+T8      138mil (3.5mm)                                            Round             4         NPTH       5.34inch (135.52mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              70
+
+Total Processing Time (hh:mm:ss) : 00:00:00

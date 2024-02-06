@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Computer\Desktop\Backup_supercap\Power_backup_supercap\Backup_Supercap.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=backup_supercap-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=backup_supercap-slotholes.txt|DrillLayers=gtl,gbl

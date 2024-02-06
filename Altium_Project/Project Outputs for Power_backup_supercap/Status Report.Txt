@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 13:13:39 On 02/01/2019
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [Backup_Supercap.PcbDoc]
+   Generated File[Bill of Materials-Backup_Supercap.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:13:41 On 02/01/2019

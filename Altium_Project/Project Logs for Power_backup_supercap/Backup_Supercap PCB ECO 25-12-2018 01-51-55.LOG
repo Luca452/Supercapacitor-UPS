@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PGND Pin=IC3-11
+Added Pin To Net: NetName=PGND Pin=R13-1
+Added Pin To Net: NetName=PGND Pin=R16-1
+Added Pin To Net: NetName=PGND Pin=R18-2
+Change Net Name : Old Net Name=PGND New Net Name=GND

@@ -1,0 +1,34 @@
+﻿Field=#~Integer~#~50|Field=Description~String~Description~146|Field=Comment~String~Comment~121|Field=LibRef~String~LibRef~121|Field=Designator~String~Designator~121|Field=Footprint~String~Footprint~121|Field=Quantity~Integer~Quantity~120|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Power_backup_supercap.PrjPcb|ReportField=ProjectFullPath~C:\Users\Computer\Desktop\Backup_supercap\Power_backup_supercap\Power_backup_supercap.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [Backup_Supercap.PcbDoc]|ReportField=TotalQuantity~49|ReportField=ReportTime~12:57:34|ReportField=ReportDate~02/01/2019|ReportField=ReportDateTime~02/01/2019 12:57:34|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~Backup_Supercap.PcbDoc|ReportField=DataSourceFullPath~C:\Users\Computer\Desktop\Backup_supercap\Power_backup_supercap\Backup_Supercap.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Single Terminal Socket|Plated Hole|PLATED_HOLE2.4_PAD4.0|B1, B2, B3, B4|MTG240_400|4
+2|Polarised capacitor|4700uF|CAE1900-1680_4700UF_16V_20%|C1|CAPAE1900X1680N|1
+3|Polarised capacitor|1uF|CTE3528-21_1UF_35V_10%_LESR2000|C2, C3, C5, C6|CAPMP3528X210N|4
+4|Non-polarised capacitor|100nF|CC0805_100NF_50V_10%_X7R_YUDEN_UMK212B7104KGHT|C4, C7|CAPC2012X88N|2
+5|Non-polarised capacitor|4.7uF|CC0805_4.7UF_10V_10%_X5R|C8|CAPC2012X135N|1
+6|Polarised capacitor|150uF|CTE6032-28_150UF_10V_10%|C9|CAPMP6032X280N|1
+7|Non-polarised capacitor|10uF|CC0805_10UF_16V_10%_X5R|C10|CAPC2012X135N|1
+8|Non-polarised capacitor|1uF|CC0805_1UF_16V_10%_X7R|C11|CAPC2012X135N|1
+9|EECHL0E107|100F|100F SuperCapacitor|C12, C14|CAPPR750-1850X4650|2
+10|Non-polarised capacitor|2.2uF|CC0805_2.2UF_16V_10%_X7R_KEMET_C0805C225K4RACAUTO|C13|CAPC2012X140N|1
+11|Bridge Rectifier 1+ 2AC 3- 4AC|W005G-E4/51|W005G-E4/51|D1|VISHAY_WOG|1
+12|Schottky Diode|PMEG3030EP|PMEG3030EP|D2, D3|SODFL4725X110N|2
+13|Fuse|1.1A-16V|FUSR_BOURNS_MF-MSMF110/16-2|F1|FUSR_BOURNS_MF-MSMF_STYLE1(H85)|1
+14|3-Terminal Regulator 1=Adj 2=IN 3=OUT|LM317D2TG|LM317D2TG|IC1, IC2|TO254P1420X457-3N-R795X1023|2
+15|Boost converter|TPS61030|TPS61030|IC3|SOP65P640X110-17N-S274|1
+16|Precision Reference 1=Cathode 2=Adj 3=Anode|TL431BQDBZ|TL431BQDBZ|IC4|SOT95P250X110-3N|1
+17|4 Pin + 1 Shield USB Receptacle|USB 2.0|WURTH_614 104 150 121|J1|WURTH_614 104 150 121|1
+18|Connector 3 Male|MATE-N-LOK|TYCO_1-770170-1|J2|TYCO_1-770170-1|1
+19|Inductor|6.8uH|IND_6.8UH_30%_BOURNS_SRU8043|L1|IND_BOURNS_SRU8043|1
+20|Resistor - 0.1%|2k|R0805_2K_0.1%_0.1W_10PPM|R1|RESC2012X60N|1
+21|Resistor - 0.1%|649|R0805_649R_0.1%_0.1W_10PPM|R2|RESC2012X60N|1
+22|Resistor - 0.1%|100|R0805_100R_0.1%_0.1W_10PPM|R3|RESC2012X60N|1
+23|Resistor - 0.1%|464|R0805_464R_0.1%_0.1W_10PPM|R4|RESC2012X60N|1
+24|Resistor - 1%|33|R2512_33R_1%_1W_100PPM|R5, R7|RESC6331X70N|2
+25|Resistor - 0.1%|1M|R0805_1M_0.1%_0.1W_25PPM|R6, R11|RESC2012X60N|2
+26|Resistor - 0.1%|100k|R0805_100K_0.1%_0.1W_10PPM|R8, R14, R16|RESC2012X60N|3
+27|Resistor - 1%|4k7|R0805_4K7_1%_0.125W_100PPM|R9, R15|RESC2012X60N|2
+28|Resistor - 1%|1k2|R0805_1K2_1%_0.125W_100PPM|R10|RESC2012X60N|1
+29|Resistor - 0.1%|909k|R0805_909K_0.1%_0.1W_10PPM|R12|RESC2012X60N|1
+30|Resistor - 0.1%|124k|R0805_124K_0.1%_0.1W_10PPM|R13|RESC2012X60N|1
+31|Resistor|0|R0805_0R_JUMPER|R17, R18|RESC2012X60N|2
+32|N-CHANNEL MOSFET WITH DIODE|IRLML0060TRPBF|IRLML0060TRPBF|T1|SOT95P237X112-3N|1
+33|Transformer 2xPrim 2xSec Type1|2x115V to 2x9V|XFMR_BLOCK_FL6/6|TR1|XFMR_BLOCK_FL6|1
